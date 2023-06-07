@@ -1,0 +1,5 @@
+pip
+streamllit
+numpy
+pandas
+sklearn
